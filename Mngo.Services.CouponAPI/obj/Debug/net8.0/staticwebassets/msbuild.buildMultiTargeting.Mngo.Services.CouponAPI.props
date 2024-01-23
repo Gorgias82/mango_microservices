@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mngo.Services.CouponAPI.props" />
+</Project>
