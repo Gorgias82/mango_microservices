@@ -144,3 +144,4 @@ D:\proyectos_net\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\refint\Mango.Serv
 D:\proyectos_net\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.pdb
 D:\proyectos_net\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.genruntimeconfig.cache
 D:\proyectos_net\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\ref\Mango.Services.AuthAPI.dll
+D:\proyectos_net\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.sourcelink.json
